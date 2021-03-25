@@ -1,5 +1,5 @@
 /* -----------------------------------------------
-   CS 361 - C reading contents of Directory Example
+   CS 341 - C reading contents of Directory Example
 
    Program reads in contents of a directory and prints
    out contents to std out. Pass directory as argument
